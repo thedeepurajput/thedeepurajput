@@ -22,7 +22,7 @@
 - Dive deeper into Java + Spring Boot
 
 📫 **How to reach me:**
-- [LinkedIn](https://www.linkedin.com/in/thedeepurajput) (replace with your link)
+- [LinkedIn](https://www.linkedin.com/in/thedeepanshurajput)
 - Email: thedeepanshurajput@gmail.com
 
 ---
