@@ -23,7 +23,7 @@
 
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/thedeepanshurajput)
-- Email: thedeepanshurajput@gmail.com
+- thedeepanshurajput@gmail.com
 
 ---
 
