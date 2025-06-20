@@ -1,33 +1,43 @@
-# Hi, I'm Deepurajput 👋
-
-**Full-stack JavaScript & Java developer** focused on building web apps & open-source tools.
-
-**🔭 I’m currently working on**: [Project Name] – a tool that does XYZ  
-**🌱 I’m learning**: Docker & Kubernetes  
-**💬 Ask me about**: Java, Spring Boot, React  
+<h1 align="center">Hi 👋, I'm Deepanshu Singh</h1>
+<h3 align="center">Flutter Developer | Firebase Enthusiast | Java Backend Learner</h3>
 
 ---
 
-### 🛠️ Tech Stack  
-![Java](logo) ![Spring Boot](logo) ![React](logo) …
+🌱 **Skills:**
+
+- 💙 Dart & Flutter – Cross-platform mobile development  
+- 🔥 Firebase – Authentication, Firestore, Cloud Functions  
+- ☕ Java – Core + Basics of Spring Boot  
+- 🐚 MySQL – Relational Database  
+- 💻 C – Basics of programming and logic building
 
 ---
 
-### 🚀 Projects  
-- **[Awesome Project](link)** – Short description, key features, tech  
-- **[Another Project](link)** – …
+🔭 **Currently Working On:**
+- Flutter projects with Firebase backend
+- Exploring API integration and state management (Provider, Riverpod)
+
+🎯 **Goals:**
+- Learn clean architecture in Flutter
+- Dive deeper into Java + Spring Boot
+
+📫 **How to reach me:**
+- [LinkedIn](https://www.linkedin.com/in/thedeepurajput) (replace with your link)
+- Email: your.email@example.com
 
 ---
 
-### 📊 GitHub Stats  
-![Top Langs](…)  
-![Stats Card](…)
+📊 **GitHub Stats:**
+
+![Deepu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedeepurajput&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeepurajput&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with me  
-[LinkedIn](…), [Portfolio](…), [Email](mailto:…)
+⭐ **Pinned Projects:**
+- [🛠️ Your Flutter App](https://github.com/your-repo) – A short description of what it does  
+- [📱 Another Project](https://github.com/your-repo2) – Tech used + purpose
 
 ---
 
-⭐ If you like my work, don’t forget to give a star!
+⚡ Fun fact: I love building beautiful UIs with Flutter & debugging weird Firebase errors! 😄
