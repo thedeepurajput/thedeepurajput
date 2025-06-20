@@ -23,7 +23,7 @@
 
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/thedeepurajput) (replace with your link)
-- Email: your.email@example.com
+- Email: thedeepanshurajput@gmail.com
 
 ---
 
@@ -34,10 +34,5 @@
 
 ---
 
-⭐ **Pinned Projects:**
-- [🛠️ Your Flutter App](https://github.com/your-repo) – A short description of what it does  
-- [📱 Another Project](https://github.com/your-repo2) – Tech used + purpose
-
----
 
 ⚡ Fun fact: I love building beautiful UIs with Flutter & debugging weird Firebase errors! 😄
