@@ -27,12 +27,5 @@
 
 ---
 
-📊 **GitHub Stats:**
-
-![Deepu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedeepurajput&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedeepurajput&layout=compact&theme=tokyonight)
-
----
-
 
 ⚡ Fun fact: I love building beautiful UIs with Flutter & debugging weird Firebase errors! 😄
