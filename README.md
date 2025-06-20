@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Deepurajput 👋
 
-<!--
-**thedeepurajput/thedeepurajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack JavaScript & Java developer** focused on building web apps & open-source tools.
 
-Here are some ideas to get you started:
+**🔭 I’m currently working on**: [Project Name] – a tool that does XYZ  
+**🌱 I’m learning**: Docker & Kubernetes  
+**💬 Ask me about**: Java, Spring Boot, React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+![Java](logo) ![Spring Boot](logo) ![React](logo) …
+
+---
+
+### 🚀 Projects  
+- **[Awesome Project](link)** – Short description, key features, tech  
+- **[Another Project](link)** – …
+
+---
+
+### 📊 GitHub Stats  
+![Top Langs](…)  
+![Stats Card](…)
+
+---
+
+### 📫 Connect with me  
+[LinkedIn](…), [Portfolio](…), [Email](mailto:…)
+
+---
+
+⭐ If you like my work, don’t forget to give a star!
