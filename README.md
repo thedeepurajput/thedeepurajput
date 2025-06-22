@@ -19,8 +19,8 @@
 - Master Spring Boot
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/thedeepurajput)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/thedeepanshurajput)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/thedeepurajput)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:thedeepanshurajput@email.com)
 
 ---
