@@ -2,20 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Har 12 ghante mein
-  workflow_dispatch:          # Manual run ke liye
-  push:
-    branches:
-      - main
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Generate GitHub Snake Animation
         uses: Platane/snk/svg-only@v3
@@ -32,6 +31,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Update snake animation [skip ci]"
+          commit_message: "🐍 Update snake animation"
+          allow_empty_commit: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
